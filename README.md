@@ -44,8 +44,7 @@ The deployed app lets you paste in raw text (copied straight from LinkedIn or an
 Python, pandas, scikit-learn, imbalanced-learn (SMOTE), XGBoost, SHAP, Streamlit
 
 ## Live demo
-
-[link here once deployed]
+https://fakejobpostingdetector-dru6zdby4rji2yjd4tvkxt.streamlit.app/
 
 ## What I'd add next
 
